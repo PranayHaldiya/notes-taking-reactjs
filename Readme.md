@@ -20,16 +20,6 @@
  
 
  
- ### Netlify Link
- 
-<h3 align="center"><a href="https://sayannotes-app.netlify.app/"><strong>Want to use the live website »</strong></a></h3>
-
----
-
-
- 
-
- 
  
  ### Following are the Screenshots for the reference
 
@@ -69,7 +59,7 @@ This project was built using React, Chakra UI, CSS, JavaScript for Frontend and 
 ### Setup
 
 
-The project repository can be found in [GitHub link](https://github.com/IntriguedSayan/Full-Stack-NoteTaking-App) or just clone the project using this command. 
+The project repository can be found in [GitHub link](https://github.com/PranayHaldiya/notes-taking-reactjs.git) or just clone the project using this command. 
 
 
 ```
@@ -194,9 +184,6 @@ Enter password -> Login -> Dashboard -> Add Notes -> View a single note & Update
  - Dark Mode
 
 <br/>
-
-## Contributor
-- [Sayan Mukherjee](https://github.com/IntriguedSayan)
 
 
 
