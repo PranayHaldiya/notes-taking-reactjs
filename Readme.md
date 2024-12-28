@@ -32,19 +32,10 @@
   ![Screenshot (147)](https://user-images.githubusercontent.com/101392591/196043479-39502424-bf84-42d6-8bd7-f760772bdc8c.png)
 
 
-- *Notes Page*
-
-  ![Screenshot (148)](https://user-images.githubusercontent.com/101392591/196043819-5d018d2c-e978-426a-9518-5d7f9438c768.png)
-
-
 - *Add Note Section*
 
   ![Screenshot (149)](https://user-images.githubusercontent.com/101392591/196043484-9a915ed4-157a-435c-99f9-015dc05aea2d.png)
 
-
-- *View Note & Update Note Page*
-
-  ![Screenshot (150)](https://user-images.githubusercontent.com/101392591/196043487-5f67d507-030b-4f45-9b4e-ba3fccc2efa8.png)
 
 
 
@@ -64,7 +55,7 @@ The project repository can be found in [GitHub link](https://github.com/PranayHa
 
 ```
 Using HTTPS
-# git clone https://github.com/IntriguedSayan/Full-Stack-NoteTaking-App.git
+# git clone https://github.com/PranayHaldiya/notes-taking-reactjs.git
 ```
 
 + Open terminal on your workspace with
